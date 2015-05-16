@@ -339,6 +339,40 @@ li {
   z-index: 9000;
 }
 
+.mich1{
+
+  position: absolute;
+  top: 400px;
+  left: 250px;
+  z-index: 9000;
+
+}
+
+.mich2{
+
+  position: absolute;
+  top: 400px;
+  left: 2250px;
+  z-index: 9000;
+}
+
+.neb1{
+
+  position: absolute;
+  top: 400px;
+  left: 250px;
+  z-index: 9000;
+
+}
+
+.neb2{
+
+  position: absolute;
+  top: 400px;
+  left: 1700px;
+  z-index: 9000;
+}
+
 #container2 {
 	width: 1300px;
     margin-left: auto; 
@@ -353,9 +387,3 @@ li {
     padding-right: 50px;
 }
 
-#inform { 
-    display: none; 
-}
-
-#inform:hover { 
-    display: block; }
